@@ -17,8 +17,8 @@ Methodology (PACE Workflow)
 Repository Structure
 app.py — Interactive Streamlit analytics dashboard
 requirements.txt — Python dependencies
-<img width="1920" height="1080" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/8fe51d12-d8da-43ab-8de0-0097c60064e8" />
-
 Product Line Profitability & Margin Performance Analysis - Research Paper (1).pdf — Full empirical research paper
 PACE Strategy - Nassau Candy Profitability Analysis-1.pdf — Complete PACE workflow documentation
 Executive Summary.pdf — One-page stakeholder summary
+<img width="1387" height="685" alt="Screenshot 2026-11-23 162618" src="https://github.com/user-attachments/assets/6283d0fb-bd58-4d0e-9837-c8022d5c574a" />
+
